@@ -1,5 +1,5 @@
 ### Hi there 👋
-###- 🌱 I’m currently studying: Bachelor of Engineering (Electrical and Electronic) with Bachelor of Mathematical and Computer Sciences
+- 🌱 I’m currently studying: Bachelor of Engineering (Electrical and Electronic) with Bachelor of Mathematical and Computer Sciences
 - 📫 How to reach me: Direct message me, or head to my website for contact info.
 - 😄 Pronouns: she/her
 <!--
